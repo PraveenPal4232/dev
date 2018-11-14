@@ -123,6 +123,7 @@ section textarea{
 	cursor:pointer;
 	padding:10px;
 	font-weight:1000;
+	width: 95%;
 }
 footer{
 	background-color:#000;
