@@ -71,10 +71,17 @@ article p{
 	margin:5px 0px 15px 0px;
 	line-height:1.5em;
 }
+article p span{
+	color:orange;
+	font-weight:1000;
+	text-transform:uppercase;
+	font-size:calc(25px + 2vw);
+}
 aside{
 	border-left:5px solid orange;
 	margin:10px 0px;
 }
+
 aside h4{
 	color:#999;
 	font-family:Comfortaa;
