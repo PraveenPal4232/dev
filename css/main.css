@@ -13,6 +13,12 @@ header{
 	background-size:cover;
 	background-position:center center;
 	height:200px;
+	position:relative;
+}
+header div{
+	position:absolute;
+	padding:30px;
+	right:0px;
 }
 nav ul{
 	margin:25px 0px;
